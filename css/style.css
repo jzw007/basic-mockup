@@ -37,3 +37,22 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+/* The "Answer" */
+html,
+body{
+	font-family: Arial, Helvetica, sans-serif;
+}
+header {
+	background-color : lightblue;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+footer {
+	background-color : black;
+	color: #999;
+	font-style: italic;
+	padding-top : 1rem;
+	padding-bottom: 1rem;
+	font-size : 0.9rem;
+
+}
